@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Daniels
-- 👀 I’m interested in data science, machine learning, and predictive analytics, especially in fields like renewable energy, healthcare, and insurance.
+- 👀 I’m interested in data science, machine learning, and predictive analytics, especially in fields like renewable energy and healthcare
 - 🌱 I’m currently a masters student at Georgia Tech studying data science.  
 - 📫 You can reach me at mpdaniels414@gmail.com or you may reach me at https://www.linkedin.com/in/michaelpedersendaniels/
 - ⚡ Fun fact: I enjoy climbing and working out.  
