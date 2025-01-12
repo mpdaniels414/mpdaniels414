@@ -9,7 +9,7 @@ I’m a data scientist with a passion for leveraging machine learning and predic
 
 ## 📫 Let’s Connect!
 - ✉️ Email: [mpdaniels414@gmail.com](mailto:mpdaniels414@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/michaelpedersendaniels](https://www.linkedin.com/in/michaelpedersendaniels/)
+- 💼 [LinkedIn]: [linkedin.com/in/michaelpedersendaniels](https://www.linkedin.com/in/michaelpedersendaniels/)
 
 ## ⚡ Fun Fact
 When I’m not diving into data, you can find me scaling a climbing wall or hitting the gym to stay active!
