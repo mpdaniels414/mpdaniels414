@@ -5,7 +5,7 @@ I’m a data scientist with a passion for leveraging machine learning and predic
 ## 🌟 About Me
 - 🎓 **Education**: As of December 2024, I have completed my **Master’s in Data Science** from **Georgia Tech**.
 - 👀 **Interests**: Data science, machine learning, predictive modeling, and exploring applications of data-driven solutions in renewable energy and healthcare.
-- 🛠️ **Skills**: Proficient in Python, R, SQL, and a range of machine learning frameworks like TensorFlow and scikit-learn. Experienced with cloud platforms such as AWS and Databricks.
+- 🛠️ **Skills**: Proficient in C++, SAS, Python, R, SQL, and a range of machine learning frameworks like TensorFlow and scikit-learn. Experienced with cloud platforms such as AWS and Databricks.
 
 ## 📫 Let’s Connect!
 - ✉️ Email: [mpdaniels414@gmail.com](mailto:mpdaniels414@gmail.com)  
