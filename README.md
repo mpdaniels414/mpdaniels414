@@ -12,8 +12,7 @@ I’m a data scientist with a passion for leveraging machine learning and predic
 - 💼 [LinkedIn](https://www.linkedin.com/in/michaelpedersendaniels/)
 
 ## ⚡ Fun Fact
-When I’m not diving into data, you can find me scaling a climbing wall or hitting the gym to stay active!
-
+I'm a rock climbing enthusiast and outdoorsman, shocker
 <!---
 mpdaniels414/mpdaniels414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
