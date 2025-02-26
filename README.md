@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Michael Daniels
 
-I’m a data scientist with a passion for leveraging machine learning and predictive analytics to solve real-world problems in fields like **renewable energy**, **healthcare**, and **insurance**. I thrive on uncovering actionable insights from complex datasets and building robust models that drive impactful decisions.
+I’m a data scientist with a passion for leveraging machine learning and predictive analytics to solve real-world problems in fields like **renewable energy**, **healthcare**, and **insurance**.
 
 ## 🌟 About Me
 - 🎓 **Education**: As of December 2024, I have completed my **Master’s in Data Science** from **Georgia Tech**.
