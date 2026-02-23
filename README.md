@@ -1,15 +1,26 @@
-I’m a data scientist working at Carnegie Mellon University 
+About Me
 
-## About Me
-  **Education**:\n
-    **Master’s in Data Science** from **Georgia Tech**.\n\tab
-    **Bachelor's in Applied Mathematics** from **University of Georgia**\n
-  **Languages**: C++, JAVA, SAS, Python, R, SQL, and a range of machine learning frameworks like TensorFlow and scikit-learn. Experienced with cloud platforms such as AWS and Databricks.
+I am a Data Scientist at Carnegie Mellon University with a background in applied statistics and machine learning, focused on building data-driven solutions for complex systems.
 
-Contact Information: 
+Education
 
-Email: [mpdaniels414@gmail.com](mailto:mpdaniels414@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/michaelpedersendaniels/)
+Master of Science in Data Science, Georgia Institute of Technology
+
+Bachelor of Science in Applied Mathematics, University of Georgia
+
+Technical Skills
+
+Programming Languages: Python, R, SQL, C++, Java, SAS
+
+Machine Learning: TensorFlow, scikit-learn
+
+Cloud & Data Platforms: AWS, Databricks
+
+Contact
+
+Email: mpdaniels414@gmail.com
+
+LinkedIn: Michael Pedersen Daniels
 <!---
 mpdaniels414/mpdaniels414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
