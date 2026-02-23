@@ -2,8 +2,8 @@ I’m a data scientist working at Carnegie Mellon University
 
 ## About Me
   **Education**:\n
-    **Master’s in Data Science** from **Georgia Tech**.
-    **Bachelor's in Applied Mathematics** from **University of Georgia**
+    **Master’s in Data Science** from **Georgia Tech**.\n\tab
+    **Bachelor's in Applied Mathematics** from **University of Georgia**\n
   **Languages**: C++, JAVA, SAS, Python, R, SQL, and a range of machine learning frameworks like TensorFlow and scikit-learn. Experienced with cloud platforms such as AWS and Databricks.
 
 Contact Information: 
