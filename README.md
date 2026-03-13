@@ -20,7 +20,7 @@ Contact
 
 Email: mpdaniels414@gmail.com
 
-LinkedIn: [Michael Daniels](www.linkedin.com/in/michaelpedersendaniels)
+LinkedIn: [Michael Daniels](https://www.linkedin.com/in/michaelpedersendaniels)
 <!---
 mpdaniels414/mpdaniels414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
