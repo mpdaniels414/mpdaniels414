@@ -4,7 +4,7 @@ I am a Data Scientist at Carnegie Mellon University with a background in applied
 
 Education
 
-Master of Science in Data Science, Georgia Institute of Technology
+Master of Science in Data Science, Georgia Tech
 
 Bachelor of Science in Applied Mathematics, University of Georgia
 
