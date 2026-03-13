@@ -1,6 +1,6 @@
 About Me
 
-I am a Data Scientist at Carnegie Mellon University with a background in applied statistics and machine learning, focused on building data-driven solutions for complex systems.
+I am a Data Scientist at Carnegie Mellon University with a background in applied statistics and machine learning.  
 
 Education
 
